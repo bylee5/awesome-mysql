@@ -49,10 +49,20 @@ A list of awesome MySQL software, libraries, tools and resources
 ### Utilities
 
 ### Language bindings
+* Java: [J developed by MySQL](https://github.com/mysql/mysql-connector-j)
+* Python: [Python developed by MySQL](https://github.com/mysql/mysql-connector-python)
+* C++: [C++ developed by MySQL](https://github.com/mysql/mysql-connector-cpp)
+* ODBC: [ODBC developed by MySQL](https://github.com/mysql/mysql-connector-odbc)
+* Node.js: [Node.js developed by MySQL](https://github.com/mysql/mysql-connector-nodejs)
+* .NET: [NET developed by MySQL](https://github.com/mysql/mysql-connector-net)
+* Go: [Go developed by Community](https://github.com/go-sql-driver/mysql)
+
+
 
 ### PaaS *(MySQL as a Service)*
 
 ### Docker images
+* [mysql](https://hub.docker.com/_/mysql) - Official MySQL container (from Docker)
 
 ## Resources
 
